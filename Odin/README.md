@@ -2,28 +2,28 @@
 Starting with The Odin Project Fundamentals course
 
 ### To-Do:
-- [ ] Introduction
+- [x] Introduction
   - [x] How This Course Will Work
   - [x] Introduction to Web Development
   - [x] Motivation and Mindset
-  - [ ] Asking for Help
-  - [ ] Join the Odin Community
+  - [x] Asking for Help
+  - [x] Join the Odin Community
 
 - [ ] Prerequisites
-  - [ ] Computer Basics
-  - [ ] How Does the Web Work?
-  - [ ] Installation Overview
-  - [ ] Installations
-  - [ ] Text Editors
+  - [x] Computer Basics
+  - [x] How Does the Web Work?
+  - [x] Installation Overview
+  - [x] Installations
+  - [x] Text Editors
   - [ ] Command Line Basics
-  - [ ] Setting Up Git
+  - [x] Setting Up Git
 
-- [ ] Git Basics
-  - [ ] Introduction to Git
-  - [ ] Git Basics
+- [x] Git Basics
+  - [x] Introduction to Git
+  - [x] Git Basics
 
 - [ ] HTML Foundations
-  - [ ] Introduction to HTML and CSS
+  - [x] Introduction to HTML and CSS
   - [ ] Elements and Tags
   - [ ] HTML Boilerplate
   - [ ] Working with Text
