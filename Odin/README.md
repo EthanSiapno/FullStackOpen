@@ -9,13 +9,13 @@ Starting with The Odin Project Fundamentals course
   - [x] Asking for Help
   - [x] Join the Odin Community
 
-- [ ] Prerequisites
+- [x] Prerequisites
   - [x] Computer Basics
   - [x] How Does the Web Work?
   - [x] Installation Overview
   - [x] Installations
   - [x] Text Editors
-  - [ ] Command Line Basics
+  - [x] Command Line Basics **(Super-Skimmed, but might be worth revisiting!)**
   - [x] Setting Up Git
 
 - [x] Git Basics
@@ -24,7 +24,7 @@ Starting with The Odin Project Fundamentals course
 
 - [ ] HTML Foundations
   - [x] Introduction to HTML and CSS
-  - [ ] Elements and Tags
+  - [x] Elements and Tags
   - [ ] HTML Boilerplate
   - [ ] Working with Text
   - [ ] Lists
