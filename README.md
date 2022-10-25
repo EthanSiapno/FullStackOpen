@@ -5,3 +5,8 @@ My Personal Journey Tackling The Odin Project Fundamentals and courses from Univ
 - [ ] The Odin Project Fundamentals
 - [ ] Full Stack Open
 - [ ] Test Driven Development
+
+### Other resources (to read potentially):
+- [ ] CTCI 
+- [ ] ADM
+- [ ] EPI
