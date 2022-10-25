@@ -25,7 +25,7 @@ Starting with The Odin Project Fundamentals course
 - [ ] HTML Foundations
   - [x] Introduction to HTML and CSS
   - [x] Elements and Tags
-  - [ ] HTML Boilerplate
+  - [x] HTML Boilerplate
   - [ ] Working with Text
   - [ ] Lists
   - [ ] Links and Images
