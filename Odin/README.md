@@ -22,15 +22,15 @@ Starting with The Odin Project Fundamentals course
   - [x] Introduction to Git
   - [x] Git Basics
 
-- [ ] HTML Foundations
+- [x] HTML Foundations
   - [x] Introduction to HTML and CSS
   - [x] Elements and Tags
   - [x] HTML Boilerplate
   - [x] Working with Text
   - [x] Lists
   - [x] Links and Images
-  - [ ] Commit Messages
-  - [ ] Project: Recipes
+  - [x] Commit Messages
+  - [x] Project: Recipes
 
 - [ ] CSS Foundations
   - [ ] CSS Foundations
@@ -46,12 +46,12 @@ Starting with The Odin Project Fundamentals course
   - [ ] Project: Landing Page
 
 - [ ] JavaScript Basics
-  - [ ] Fundamentals Part 1
-  - [ ] Fundamentals Part 2
-  - [ ] JavaScript Developer Tools
-  - [ ] Fundamentals Part 3
-  - [ ] Problem Solving
-  - [ ] Understanding Errors
+  - [x] Fundamentals Part 1
+  - [x] Fundamentals Part 2
+  - [x] JavaScript Developer Tools
+  - [x] Fundamentals Part 3
+  - [x] Problem Solving
+  - [x] Understanding Errors
   - [ ] Project: Rock Paper Scissors
   - [ ] Clean Code
   - [ ] Installing Node.js
@@ -62,11 +62,11 @@ Starting with The Odin Project Fundamentals course
   - [ ] Fundamentals Part 5
   - [ ] Project: Calculator
 
-- [ ] The Back End
-  - [ ] Introduction to the Back End
-  - [ ] Introduction to Frameworks
+- [x] The Back End
+  - [x] Introduction to the Back End
+  - [x] Introduction to Frameworks
 
-- [ ] Conclusion
-  - [ ] Choose your Path Forward (N/A, going to FSO)
+- [x] Conclusion
+  - [x] Choose your Path Forward (N/A, going to FSO)
 
 Source: https://www.theodinproject.com/paths/foundations/courses/foundations
