@@ -32,11 +32,11 @@ Starting with The Odin Project Fundamentals course
   - [x] Commit Messages
   - [x] Project: Recipes
 
-- [ ] CSS Foundations
-  - [ ] CSS Foundations
-  - [ ] Inspecting HTML and CSS
-  - [ ] The Box Model
-  - [ ] Block and Inline
+- [x] CSS Foundations
+  - [x] CSS Foundations
+  - [x] Inspecting HTML and CSS
+  - [x] The Box Model
+  - [x] Block and Inline
 
 - [ ] Flexbox
   - [ ] Introduction to Flexbox
